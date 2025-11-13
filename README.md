@@ -1,6 +1,6 @@
 <div align="left" dir="ltr">
 
-# 👋 Hi, I'm Rivka Troper  
+## 👋 Hi, I'm Rivka Troper  
 ### 💻 Software Developer | Full Stack | AI Enthusiast  
 
 ---
