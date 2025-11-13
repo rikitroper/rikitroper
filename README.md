@@ -1,41 +1,41 @@
-## Hi there 👋
+<div align="left" dir="ltr">
 
-# 👋 שלום, אני רבקה טרופר  
-
-### 💻 מפתחת תוכנה | Full Stack Developer | מתמחה ב־AI  
-
----
-
-## 🌟 קצת עליי
-אני אוהבת ללמוד, להתפתח ולצמוח מקצועית. בעלת יכולת למידה עצמית גבוהה, חשיבה מתמטית ולוגית מעולה, ויחסי אנוש מצוינים.  
-יש לי מוסר עבודה גבוה, רמת אחריות גבוהה, ותמיד שואפת לבצע כל משימה בצורה יסודית ומדויקת.  
+# 👋 Hi, I'm Rivka Troper  
+### 💻 Software Developer | Full Stack | AI Enthusiast  
 
 ---
 
-## 🎓 השכלה
-- **הנדסאית תוכנה** – מה"ט, לימודים במוסד *זיכרון צבי* (2023–2025), סיום בהצטיינות  
-- **תכנית UltraCode** – בוגרת מטעם חברת קמא-טק  
-- **בגרות מלאה במגמת תכנות** – בית יעקב (2019–2023, 5 יחידות תכנות)
+## 🌟 About Me  
+I’m passionate about learning, technology, and building meaningful solutions.  
+Highly motivated, detail-oriented, with strong logical and analytical thinking.  
+Excellent communication skills and a strong work ethic.  
 
 ---
 
-## 💼 ניסיון מקצועי
-**סטאז' בחברת Skayvar (2025)**  
-פיתוח מערכת לניהול הובלות בטון בזמן אמת עבור חברת *Buyton*  
-עבודה עם:
+## 🎓 Education  
+- **Software Engineering Technician (מה"ט)** – *Zikhron Tsvi College* (2023–2025), Graduated with honors  
+- **UltraCode Program Graduate** – *KamaTech*  
+- **Full Bagrut with Programming Major (5 units)** – *Beit Yaakov High School* (2019–2023)
+
+---
+
+## 💼 Experience  
+**Internship – Skayvar (2025)**  
+Development of a real-time logistics coordination system for *Buyton* company.  
+Worked with:  
 - React, Flask (Python), PostgreSQL, Docker  
-- בניית פיצ'רים לאפליקציית נהגים  
-- שיפור אופטימיזציה בתיאום בין משאיות ומשאבות  
+- Built new features for a driver management app  
+- Improved synchronization and data optimization processes  
 
 ---
 
-## 🧠 ידע טכנולוגי
+## 🧠 Technical Skills  
 
 **Frontend:**  
 React, Angular, HTML5, CSS3, JavaScript  
 
 **Backend:**  
-Node.js, Flask (Python), C#.NET, Java, C/C++, Python  
+Node.js, Flask (Python), C#.NET, Java, C/C++  
 
 **Databases:**  
 SQL Server, PostgreSQL, MongoDB, Access  
@@ -47,69 +47,62 @@ Git, GitHub, Docker, Swagger, Postman, Entity Framework
 Windows, Linux  
 
 **AI & Data:**  
-אימון מודלים, ראייה ממוחשבת, שילוב AI באפליקציות באמצעות Python  
+Model training, computer vision, AI integration with Python  
 
 ---
 
-## 🚀 פרויקטים נבחרים
+## 🚀 Selected Projects  
 
-### 🛴 מערכת השכרת קורקינטים – Full Stack  
-- צד לקוח: JavaScript  
-- צד שרת: Node.js  
-- מסד נתונים: SQL Server  
-- התממשקות ל־Google Maps  
-- שליחת הודעות Gmail וקבלה בפורמט PDF  
+### 🛴 Electric Scooter Rental System – Full Stack  
+- Client: JavaScript  
+- Server: Node.js  
+- Database: SQL Server  
+- Google Maps integration  
+- Gmail API for message delivery and PDF receipts  
 🔗 [GitHub Repository](https://github.com/rikitroper/fullStack-korkinet)
 
 ---
 
-### 📚 תוכנה לניהול השכרת ספרי לימוד  
-- צד לקוח: C# Forms  
-- מסד נתונים: Access  
+### 📚 School Book Rental Management  
+- Client: C# Forms  
+- Database: Access  
 
 ---
 
-### 🎒 חנות תיקים  
-- צד לקוח: React  
-- צד שרת: Node.js  
+### 🎒 Bag Store  
+- Client: React  
+- Server: Node.js  
 
 ---
 
-### 🕒 אתר לניהול תורים  
-- צד שרת: .NET Core  
-- מסד נתונים: SQL Server  
+### 🕒 Appointment Management Website  
+- Server: .NET Core  
+- Database: SQL Server  
 - ORM: Entity Framework  
 
 ---
 
-### ⛽ הצגת מחירי דלק – Angular  
-- צד לקוח: Angular  
-- צד שרת: C#.NET  
-- מסד נתונים: SQL Server  
+### ⛽ Fuel Prices Display (Angular)  
+- Client: Angular  
+- Server: C#.NET  
+- Database: SQL Server  
 
 ---
 
-## 🌍 שפות
-- עברית – שפת אם  
-- אנגלית – רמה גבוהה מאוד  
+## 🌍 Languages  
+- Hebrew – Native  
+- English – Very good level  
 
 ---
 
-## 📫 יצירת קשר
+## 📫 Contact  
 📧 [rikijob3344@gmail.com](mailto:rikijob3344@gmail.com)  
-📍 אזור המרכז  
+📍 Central Israel  
 📞 ‎053-4187895  
-🌐 [LinkedIn](https://www.linkedin.com/in/_____) ← (תוסיפי כאן קישור אם יש לך)
+🌐 [LinkedIn](https://www.linkedin.com/in/_____) ← add your link  
 
 ---
 
-## 💡 תחומי עניין
-AI, פיתוח אפליקציות Web, מערכות אוטומציה, למידת מכונה, UX/UI, שיפור ביצועים ותהליכי פיתוח.
+<p align="left"><sub>⭐ Thank you for visiting my profile! Don’t forget to check out my projects and give a ⭐ if you like them.</sub></p>
 
----
-
-⭐ אל תשכחו לעשות Follow ולבדוק את הפרויקטים שלי!
-  
-אוהבת ללמוד ולדעת 🌟  
-
-## כי
+</div>
