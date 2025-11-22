@@ -98,8 +98,7 @@ Model training, computer vision, AI integration with Python
 ## 📫 Contact  
 📧 [rikijob3344@gmail.com](mailto:rikijob3344@gmail.com)  
 📍 Central Israel  
-📞 ‎053-4187895  
-🌐 [LinkedIn](https://www.linkedin.com/in/_____) ← add your link  
+📞 ‎053-4187895 
 
 ---
 
